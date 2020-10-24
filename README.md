@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi! I'm Minith 👋</h1>
 <hr>
-<h3 align="center">AI enthusiast & crypto/blockchain maximalist.</h3>
+<h3 align="center">AI enthusiast & crypto/blockchain maximalist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minithbjain&label=Profile%20views&color=0e75b6&style=flat" alt="minithbjain" /> </p>
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **blockchain development**
 
-- 💬 Ask me about **Python / Machine Learning / Crypto / Trading(Technical Analysis)**
+- 💬 Ask me about **Python / Machine Learning / Computer Vision / Trading(Technical Analysis)**
 
 - 📫 How to reach me **minithb@gmail.com**
 
