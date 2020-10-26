@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="center">AI enthusiast & crypto/blockchain maximalist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minithbjain&label=Profile%20views&color=0e75b6&style=flat" alt="minithbjain" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=minithbjain&label=Profile%20views&color=0e75b6&style=flat" alt="minithbjain" /> </p>-->
 
 - 🔭 I’m currently working on **my own secret AI trading project, but I'm open for opportunities**.
 
