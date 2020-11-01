@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=minithbjain&label=Profile%20views&color=0e75b6&style=flat" alt="minithbjain" /> </p>-->
 
-- 🔭 I’m currently working on **my own secret AI trading project, but I'm open for opportunities**.
+- 🔭 I’m currently working on **my own secret AI trading project, but I'm open for job opportunities**.
 
 - 🌱 I’m currently learning **blockchain development**.
 
